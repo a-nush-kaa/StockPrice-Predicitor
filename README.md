@@ -49,4 +49,4 @@ Total MSE: 2.58
 ## Final Note:
 ![image](https://user-images.githubusercontent.com/45662797/132523863-519bc202-fff4-4de9-bfef-d0f1c370bc02.png)
 
- Yeah so here we learnt more about Bi LSTM's I am attaching the poster that we presented in Techevinche 2020 IIT Guwahati to the community in the folder, in the poster we have said as two lstms which is nothing but bilstms
+ Yeah so here we learnt more about Bi LSTM's I am attaching the poster , in the poster we have said as two lstms which is nothing but bilstms
